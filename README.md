@@ -1,2 +1,37 @@
-# Exploratory-Data-Analysis-EDA-and-Business-Intelligence
-Business Intelligence focuses on converting analyzed data into meaningful insights that support decision making. BI uses tools and technologies to collect, organize, visualize, and present business information in the form of dashboards, reports, and interactive charts. Popular BI tools include Power BI, Tableau, and Microsoft Excel. 
+# Exploratory Data Analysis (EDA) and Business Intelligence Project
+
+## Project Overview
+This project demonstrates Exploratory Data Analysis (EDA) and Business Intelligence using Python. The project analyzes sales data, cleans missing values, generates insights, and visualizes business performance using charts.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Files Included
+- eda_project.py
+- sales_data.csv
+- requirements.txt
+- README.md
+
+## Features
+- Data Loading
+- Data Cleaning
+- Statistical Analysis
+- Business Insights
+- Data Visualization
+
+## Dataset Example
+| Product | Sales |
+|---------|--------|
+| Laptop | 50000 |
+| Mobile | 30000 |
+| Tablet | 20000 |
+
+## Installation
+
+Install required libraries using:
+
+```bash
+pip install -r requirements.txt
